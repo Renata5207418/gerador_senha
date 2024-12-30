@@ -2,10 +2,6 @@
 
 Este projeto é um gerador de senhas seguras e personalizáveis, desenvolvido com HTML, CSS e JavaScript. Você pode escolher o tamanho da senha e quais caracteres serão utilizados (maiúsculas, minúsculas, números e símbolos).
 
-## Demonstração
-
-![Exemplo de Interface](https://via.placeholder.com/600x300.png?text=Gerador+de+Senhas)
-
 ## Recursos
 
 - **Personalização de tamanho**: Selecione a quantidade de caracteres.
